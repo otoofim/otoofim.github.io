@@ -10970,3 +10970,18 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+
+.custContainer {
+  position: relative;
+  text-align: center;
+  color: black;
+}
+
+.customizedTextBelowImg {
+  position: absolute;
+  top: 110%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 0.2em;
+}
